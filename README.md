@@ -1,5 +1,9 @@
 # Shrtnr
 
+<p align="center">
+  <img src="docs/shrtnr-dashboard.png" width="800" alt="Screenshot of shrtnr app">
+</p>
+
 `shrtnr` is an application that creates short links and captures visit metrics similar to [bit.ly](https://bitly.com/). This repo serves to document the project and provide a single `docker-compose.yml` file to build and run the project.  The application is composed of code from the following github repos:
 - [matthewsaunders/link-shortener-api](https://github.com/matthewsaunders/link-shortener-api)
 - [matthewsaunders/link-shortener-app](https://github.com/matthewsaunders/link-shortener-app)
